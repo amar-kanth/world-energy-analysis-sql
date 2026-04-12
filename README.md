@@ -45,6 +45,15 @@ The following Entity Relationship Diagram represents the structure of the databa
 
 ---
 
+## 🗺️ Database Schema (ERD)
+
+The following Entity Relationship Diagram represents the structure of the database and relationships between tables:
+
+![ERD](ERD/erd_diagram.png)
+
+📁 Editable ERD file available: `ERD/erd_diagram.mwb`
+---
+
 ## 🧠 Key Analysis Performed
 
 ### 🔹 General Analysis
