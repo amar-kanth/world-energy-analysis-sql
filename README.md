@@ -37,13 +37,6 @@ This project is based on 6 relational tables:
 All tables are linked using **foreign key relationships** to ensure data integrity.
 
 ---
-## 🗺️ Database Schema (ERD)
-
-The following Entity Relationship Diagram represents the structure of the database and relationships between tables:
-
-![ERD](ERD/ERD.mwb)
-
----
 
 ## 🗺️ Database Schema (ERD)
 
@@ -52,6 +45,7 @@ The following Entity Relationship Diagram represents the structure of the databa
 ![ERD](ERD/erd_diagram.png)
 
 📁 Editable ERD file available: `ERD/erd_diagram.mwb`
+
 ---
 
 ## 🧠 Key Analysis Performed
